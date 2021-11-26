@@ -325,7 +325,7 @@ export function Addroom() {
             }}
           />
           <div className='mt-1 text-right'>
-          <button className="btn btn-primary" onClick={addRoom}>Adicionar uqarto</button>
+          <button className="btn btn-primary" onClick={addRoom}>Adicionar</button>
           </div>
         </div>
      
