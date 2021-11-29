@@ -70,7 +70,7 @@ function Addroom() {
           <input
             type="number"
             className="form-control mt-1"
-            placeholder="Quantidade de Quartos"
+            placeholder="Max Pessoas"
             value={phonenumber}
             onChange={(e) => {
               setphonenumber(e.target.value);

@@ -132,7 +132,7 @@ export function Rooms() {
                                <th>Tipo</th>
                                <th>Valor Diária</th>
                                <th>Num. Quarto</th>
-                               <th>Quantidade Quartos</th>
+                               <th>Max. de Pessoas</th>
                            </tr>
                        </thead>
                        <tbody>
@@ -278,7 +278,7 @@ export function Addroom() {
           <input
             type="number"
             className="form-control mt-1"
-            placeholder="Quantidade de Quartos"
+            placeholder="Max. de Pessoas"
             value={phonenumber}
             onChange={(e) => {
               setphonenumber(e.target.value);
