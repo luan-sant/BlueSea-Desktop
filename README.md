@@ -83,4 +83,3 @@ npm run electron
 </table>
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
